@@ -20,7 +20,7 @@ Page 3:
 
 4pg Navbar
 H1 Header
-1 <ol> or <ul> w/5 outside links
+1 ordered or unordered list w/5 outside links
 
 
 Page 4:
